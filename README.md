@@ -1,8 +1,8 @@
 # Avaverse Metaverse Project
 
-https://avaverse.org
-https://avaverse.io
-https://avaverse.net
+- https://avaverse.org
+- https://avaverse.io
+- https://avaverse.net
 
 ## Deployed Contracts / Hash
 
